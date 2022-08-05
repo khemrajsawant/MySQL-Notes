@@ -1,0 +1,5 @@
+session_data 
+https://docs.google.com/document/d/1LtYUsRnuhMtZ1o35TulIWlvh_jKEfk2ua_Q6IBOKG7M/edit
+
+MySql Documentation
+https://dev.mysql.com/doc/workbench/en/
