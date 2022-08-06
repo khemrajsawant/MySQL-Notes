@@ -7,3 +7,11 @@ https://dev.mysql.com/doc/workbench/en/
 Google Slides 
 https://docs.google.com/presentation/d/1KTbV2ZoRcEVzTHr-dGAO99_p5hLIlunexKcP8cjUq98/edit?usp=sharing
 ALTER Table will be updated soon
+
+Useful Study Material
+https://beginnersbook.com/2015/04/view-in-dbms/
+
+
+Databases Links
+https://dev.mysql.com/doc/index-other.html  
+
