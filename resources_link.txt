@@ -15,3 +15,5 @@ https://beginnersbook.com/2015/04/view-in-dbms/
 Databases Links
 https://dev.mysql.com/doc/index-other.html  
 
+https://www.mysqltutorial.org/mysql-sample-database.aspx
+
