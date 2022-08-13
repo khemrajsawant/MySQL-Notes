@@ -17,3 +17,8 @@ https://dev.mysql.com/doc/index-other.html
 
 https://www.mysqltutorial.org/mysql-sample-database.aspx
 
+
+# 3 Tier Architecure
+
+https://app.diagrams.net/#G1DIpNhksyFmaDmgX9PLR6-EM76S0kDHjE
+
